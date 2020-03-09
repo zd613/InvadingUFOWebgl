@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "InvadingUFO",
+"productVersion": "1.0",
+"dataUrl": "WebGL_UFO.data.unityweb",
+"asmCodeUrl": "WebGL_UFO.asm.code.unityweb",
+"asmMemoryUrl": "WebGL_UFO.asm.memory.unityweb",
+"asmFrameworkUrl": "WebGL_UFO.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.5f1"
+}
