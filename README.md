@@ -1,3 +1,3 @@
 # UFOGame
 
-https://zd613.github.io/UFOGame/
+https://zd613.github.io/InvadingUFOWebgl/
